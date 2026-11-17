@@ -1,0 +1,6 @@
+{
+  "name": "SPACE STRIKE 3D",
+  "description": "3D third-person arcade space combat shooter with procedural starfighters, multi-phase alien bosses, dynamic weapons, and immersive cosmic environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
