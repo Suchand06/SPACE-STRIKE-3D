@@ -3,7 +3,8 @@
 A browser-based 3D third-person space combat game built with **React**, **TypeScript**, **Vite**, and **Three.js**. Pilot an advanced starfighter across five alien-occupied sectors, shatter asteroid fields, collect weapon and defensive power-ups, and take down multi-phase capital-ship bosses.
 
 ---
-
+# HOSTED IN BELOW LINK
+  https://space-strike-3d.ai.studio/
 ## Features
 
 - **Real-Time 3D Space Environment**
